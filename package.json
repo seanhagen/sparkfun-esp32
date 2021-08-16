@@ -1,0 +1,17 @@
+{
+  "name": "framework-sparkfun-esp32",
+  "version": "1.0.1",
+  "description": "Sparkfun Framework for Espressif ESP32 microcontrollers",
+  "keywords": [
+    "framework",
+    "arduino",
+    "espressif",
+    "esp32",
+    "sparkfun"
+  ],
+  "license": "LGPL-2.1-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sparkfun/Arduino_Boards"
+  }
+}
